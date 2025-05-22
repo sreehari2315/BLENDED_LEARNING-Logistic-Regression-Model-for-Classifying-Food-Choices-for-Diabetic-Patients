@@ -1,6 +1,6 @@
 ## BLENDED_LEARNING
 ## Implementation of Logistic Regression Model for Classifying Food Choices for Diabetic Patients
-### DATE:15-05-2025
+### DATE:24-04-2025
 ## AIM:
 To implement a logistic regression model to classify food items for diabetic patients based on nutrition information.
 
@@ -43,7 +43,7 @@ To implement a logistic regression model to classify food items for diabetic pat
 ## Program:
 ```
 Program to implement Logistic Regression for classifying food choices based on nutritional information.
-Developed by: Sree Hari K
+Developed by: SREE HARI K
 RegisterNumber: 212223230212
 
 import pandas as pd
